@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -Wall pdp_run.c pdp_main.c pdp_commands.c -o pdp_exec
